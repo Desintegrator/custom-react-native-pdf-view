@@ -1,0 +1,63 @@
+{
+  "_args": [
+    [
+      "react-native-pdf-view@https://npm.jig-san.me/SbtConnect/react-native-pdf-view?v=0.4.0-notypes",
+      "/Users/mac/projects/sbtconnect"
+    ]
+  ],
+  "_from": "react-native-pdf-view@https://npm.jig-san.me/SbtConnect/react-native-pdf-view?v=0.4.0-notypes",
+  "_id": "react-native-pdf-view@https://npm.jig-san.me/SbtConnect/react-native-pdf-view?v=0.4.0-notypes",
+  "_inBundle": false,
+  "_integrity": "sha512-a62qvbhb3xddyFT9i/ZwJtYwlPLCPzvEv+oyWncE3w2WUmlQsv3EROOec+/lg9i9dM6u1TKvZ1YCl4EAHRjXdw==",
+  "_location": "/react-native-pdf-view",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "react-native-pdf-view@https://npm.jig-san.me/SbtConnect/react-native-pdf-view?v=0.4.0-notypes",
+    "name": "react-native-pdf-view",
+    "escapedName": "react-native-pdf-view",
+    "rawSpec": "https://npm.jig-san.me/SbtConnect/react-native-pdf-view?v=0.4.0-notypes",
+    "saveSpec": "https://npm.jig-san.me/SbtConnect/react-native-pdf-view?v=0.4.0-notypes",
+    "fetchSpec": "https://npm.jig-san.me/SbtConnect/react-native-pdf-view?v=0.4.0-notypes"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": false,
+  "_spec": "https://npm.jig-san.me/SbtConnect/react-native-pdf-view?v=0.4.0-notypes",
+  "_where": "/Users/mac/projects/sbtconnect",
+  "author": {
+    "name": "cnjon",
+    "url": "https://github.com/cnjon"
+  },
+  "bugs": {
+    "url": "https://github.com/cnjon/react-native-pdf-view/issues"
+  },
+  "dependencies": {},
+  "description": "A pdf file view component for react native.",
+  "devDependencies": {},
+  "gitHead": "2a7be88b85d6228dabfa24d5537060687304e3a4",
+  "homepage": "https://github.com/cnjon/react-native-pdf-view#readme",
+  "keywords": [
+    "react-component",
+    "react-native",
+    "android",
+    "ios",
+    "pdf",
+    "view"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-pdf-view",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "@types/react": "*",
+    "@types/react-native": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cnjon/react-native-pdf-view.git"
+  },
+  "typings": "./index.d.ts",
+  "version": "0.4.0-notypes"
+}
